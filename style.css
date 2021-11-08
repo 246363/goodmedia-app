@@ -1,0 +1,16 @@
+html{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    
+}
+h2{
+    font-size: 18px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.description-tag{
+    font-size: larger;
+    text-align: center;
+    color: green;
+}
