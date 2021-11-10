@@ -10,7 +10,51 @@ h1{
     text-align: center;
 }
 .description-tag{
-    font-size: larger;
+    font-size: 13px;
     text-align: center;
     color: green;
+    max-width: 5500px;
 }
+h3{
+    color: grey;
+    text-align: center;
+}
+
+.darksoulsimg{
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 250px;
+    width: auto;
+}
+
+.metalogo{
+    width: auto;
+    height: 65px;
+    position: relative;
+    bottom: -10px;
+    left: 12px;
+    
+    
+    
+}
+.imdblogo{
+    width: auto;
+    height: 85px;
+    position: relative;
+    align-content: center;
+    bottom: -10px;
+}
+.one-three{
+    width:33%;
+    float:left;
+    text-align:center;
+    height:150px;
+}
+.one-three img{
+    max-width:100px;
+    width:100%;
+    height:auto;
+}
+
